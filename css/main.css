@@ -1,0 +1,54 @@
+#name{
+text-align:center
+
+
+}
+body{
+background-color:#FAFAFA
+}
+
+#ic{
+	text-align:center;
+	background-color:#fff;
+	font-size:32px
+}
+#bigid{
+text-align:center;
+align-items:center
+}
+#git{
+	text-align:center;
+	font-size:32px
+}
+#entirecard{
+	text-align:center;
+
+	align-items: center;
+
+}
+.mdl-grid {
+	display: flex;
+align-items:center;
+justify-content:center;
+
+
+
+    }
+ #name
+ {
+ 	 text-align:center;
+	width : 95%;
+	height: 10%;
+	background-color:#283593;
+
+ }
+ #sometext{
+	text-align:center;
+	font-size : 200%;
+
+ }
+ #white{
+	opacity:.87;
+	color:#fff;
+
+}
